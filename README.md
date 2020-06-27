@@ -1,5 +1,5 @@
 # fernandomachado90.github.io
-Simple personal hub website created with [Hugo](https://gohugo.io/) and the [aerial](https://github.com/sethmacleod/aerial) theme.
+Simple personal hub website created using [Hugo](https://gohugo.io/) with [hugo-split-theme](https://github.com/escalate/hugo-split-theme).
 
 ## Commands
 
