@@ -1,0 +1,3 @@
+[submodule "hugo/themes/aerial"]
+	path = hugo/themes/aerial
+	url = https://github.com/sethmacleod/aerial
