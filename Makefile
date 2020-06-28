@@ -1,15 +1,26 @@
 .SILENT:
-.DEFAULT_GOAL := help
+  .DEFAULT_GOAL := help
 
 .PHONY: help
 help:
-	$(info Available Commands:)
-	$(info -> install                Downloads submodules dependencies)
-	$(info -> run                    Serves website at http://localhost:1313/)
-	$(info -> build                  Builds deployable version of the website)
+	$(info hugo.github.io maker:)
+	$(info -> new                         Creates a new Hugo project)
+	$(info -> add theme=[repository-url]  Adds Hugo theme as a submodule)
+	$(info -> update                      Updates included themes)
+	$(info -> run                         Serves website at http://localhost:1313/)
+	$(info -> build                       Builds deployable version)
+	$(info -> publish                     Pushes changes to repository)
 
-.PHONY: install
-install:
+.PHONY: new
+new:
+	hugo new site hugo
+
+.PHONY: add
+add:
+	cd hugo/themes &&	git submodule add $(theme)
+
+.PHONY: update
+update:
 	git submodule sync --recursive
 	git submodule update --init --recursive
 
@@ -21,6 +32,8 @@ run:
 build:
 	cd hugo && hugo -d ..
 
-# ignore unknown commands
-%:
-    @:
+.PHONY: publish
+publish:
+	git add .
+	git commit -m "Publishing hugo.github.io-maker changes."
+	git push
