@@ -9,4 +9,6 @@ I've been working as a full-stack software developer for around a decade. I am v
 
 I believe in open communication, inter-role collaboration, continuous learning and diversity in workplaces.
 
+ If you wish to create your own personal page like this one, please [use this template](https://github.com/fernandomachado90/hugo.github.io-maker). I'd be happy to see the results!
+
 Feel free to reach me anywhere :)
