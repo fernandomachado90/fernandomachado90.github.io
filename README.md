@@ -1,5 +1,7 @@
 # fernandomachado90.github.io
-Simple personal hub website created using [Hugo](https://gohugo.io/) with [hugo-split-theme](https://github.com/escalate/hugo-split-theme).
+Simple personal hub website created using [Hugo](https://gohugo.io/) with [Split](https://github.com/escalate/hugo-split-theme).
+
+Icons made by [Eucalyp](https://www.flaticon.com/authors/eucalyp).
 
 ## Commands
 

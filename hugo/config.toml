@@ -5,26 +5,23 @@ title = "Fernando Machado"
 theme = "hugo-split-theme"
 canonifyurls = true
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
-
-# Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
-
-# Copyright
-copyright = "&copy;2020 Fernando Machado"
+copyright = "&copy; 2020 Fernando Machado"
 
 [params]
-  # Metadata for search engines and social sharing
   author = "Fernando Machado"
-  description = "Fernando Machado is a software developer, agile enthusiast and passionate teacher."
-  shareImage = "images/.jpg"
-  twitterHandle = "onepagelove"
+  description = "Fernando Machado. Software developer, agile enthusiast and passionate teacher."
+  shareImage = "images/social.jpg"
+  twitterHandle = "fernandomach7do"
 
   # Favicon
   favicon = "favicon.ico"
 
+  [params.custom.css]
+    enable = true
+
   # Section - Visual
   [params.visual]
-
     # Image
     [params.visual.image]
       enable = true
@@ -38,95 +35,47 @@ copyright = "&copy;2020 Fernando Machado"
       file = "videos/background.mp4"
       # youtubeId = "dk9uNWPP7EA"
 
-  # Links
-  #
-  # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Connect"
+      heading = "Work"
 
       [[params.links.list1.link]]
-        text = "Blog"
-        url = "#"
+        text = "GitHub"
+        url = "https://github.com/fernandomachado90"
 
       [[params.links.list1.link]]
-        text = "Email"
-        url = "#"
+        text = "Medium"
+        url = "https://medium.com/@fernandomachado90"
 
       [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
+        text = "LinkedIn"
+        url = "http://linkedin.com/in/fernandomachado90"
 
-  # Links List #2
   [[params.links]]
     [params.links.list2]
       heading = "Social"
 
       [[params.links.list2.link]]
         text = "Twitter"
-        url = "#"
+        url = "https://twitter.com/fernandomach7do"
+
+      [[params.links.list2.link]]
+        text = "Facebook"
+        url = "https://facebook.com/fernandomachado90"
 
       [[params.links.list2.link]]
         text = "Instagram"
-        url = "#"
+        url = "https://instagram.com/fernandomach7do"
 
-      [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
-
-  # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Network"
+      heading = "Contact"
 
       [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
+        text = "Email"
+        url = "mailto:lfmachado90@gmail.com"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
   # If you'd like to use the template without the attribution, you can check out
   # the license option via the template author's website: https://onepagelove.com/split
-
-[[params.social]]
-  medium = "LinkedIn"
-  icon = "linkedin-square"
-  link = "http://linkedin.com/in/fernandomachado90"
-
-[[params.social]]
-  medium = "Github"
-  icon = "github"
-  link = "https://github.com/fernandomachado90"
-
-[[params.social]]
-  medium = "Medium"
-  icon = "align-left"
-  link = "https://medium.com/@fernandomachado90"
-
-[[params.social]]
-  medium = "Twitter"
-  icon = "twitter"
-  link = "https://twitter.com/fernandomach7do"
-
-[[params.social]]
-  medium = "Facebook"
-  icon = "facebook"
-  link = "https://facebook.com/fernandomachado90"
-
-[[params.social]]
-  medium = "Instagram"
-  icon = "instagram"
-  link = "https://instagram.com/fernandomach7do"
-
-[[params.social]]
-  medium = "Email"
-  icon = "envelope-o"
-  link = "mailto:lfmachado90@gmail.com"

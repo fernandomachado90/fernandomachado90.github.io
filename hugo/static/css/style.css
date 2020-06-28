@@ -1,0 +1,40 @@
+body.page-template-page-fullsingle-split {
+  background-color: #FFFFFF;
+}
+
+.split-intro h1 {
+  color: #008de8;
+  opacity: 0.9;
+}
+
+.split-intro .tagline {
+  color: #ffa500;
+  opacity: 0.9;
+}
+
+.split-bio {
+  font-family: "Montserrat", sans-serif;
+}
+
+.split-lists .split-list h3 {
+  color: #e20058;
+  font-size: 15px;
+  font-weight: bold;
+  opacity: 0.5;
+}
+
+.split-lists .split-list ul li a:hover {
+  color: #ff4663;
+  opacity: 0.5;
+}
+
+/*
+pink         ff4663
+dark pink    e20058
+
+yellow       ffc600
+dark yellow  ffa500
+
+blue         00c5ff
+dark blue    008de8
+*/
