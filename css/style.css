@@ -16,6 +16,17 @@ body.page-template-page-fullsingle-split {
   font-family: "Montserrat", sans-serif;
 }
 
+.split-bio a {
+  border: none;
+  text-decoration: underline;
+}
+
+.split-bio a:hover {
+  border: none;
+  color: #ff4663;
+  opacity: 0.5;
+}
+
 .split-lists .split-list h3 {
   color: #e20058;
   font-size: 15px;
@@ -26,6 +37,12 @@ body.page-template-page-fullsingle-split {
 .split-lists .split-list ul li a:hover {
   color: #ff4663;
   opacity: 0.5;
+}
+
+.split-content .split-credit p,
+.split-content .split-credit p a {
+  font-size: 13px;
+  color: #ff4663;
 }
 
 /*
