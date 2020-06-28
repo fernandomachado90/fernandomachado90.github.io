@@ -4,8 +4,13 @@
 .PHONY: help
 help:
 	$(info Available Commands:)
+	$(info -> install                Downloads submodules dependencies)
 	$(info -> run                    Serves website at http://localhost:1313/)
 	$(info -> build                  Builds deployable version of the website)
+
+.PHONY: install
+install:
+	git submodule update --init --recursive
 
 .PHONY: run
 run:
