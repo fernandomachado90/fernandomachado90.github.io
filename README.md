@@ -5,6 +5,9 @@ Icons made by [Eucalyp](https://www.flaticon.com/authors/eucalyp).
 
 ## Commands
 
+### `make install`
+Updates submodules.
+
 ### `make run`
 Serves website at http://localhost:1313/
 
