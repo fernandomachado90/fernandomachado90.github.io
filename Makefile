@@ -10,6 +10,7 @@ help:
 
 .PHONY: install
 install:
+	git submodule sync --recursive
 	git submodule update --init --recursive
 
 .PHONY: run
