@@ -2,6 +2,12 @@ body.page-template-page-fullsingle-split {
   background-color: #FFFFFF;
 }
 
+code {
+  font-family: "Courier New";
+  font-weight: bold;
+  opacity: 0.9;
+}
+
 .split-intro h1 {
   color: #008de8;
   opacity: 0.9;
@@ -25,6 +31,24 @@ body.page-template-page-fullsingle-split {
   border: none;
   color: #ff4663;
   opacity: 0.5;
+}
+
+.split-bio p img {
+  margin: 0 auto;
+  display: block;
+}
+
+.split-bio table {
+  width: 100%;
+}
+
+.split-bio table th {
+  color: #ff4663;
+  font-size: 15px;
+  font-weight: bold;
+  opacity: 0.75;
+  text-transform: uppercase;
+  text-align: left;
 }
 
 .split-lists .split-list h3 {
