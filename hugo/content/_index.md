@@ -15,16 +15,18 @@ interdisciplinary **collaboration**, autonomy to seek excellency
 and **continuous experimenting, learning and improving** are the keys
 to a successful project.
 
+## Tech Stack
+
 [fullstack]: images/fullstack.png "full-stack developer"
 ![full-stack developer][fullstack]
 
-| back-end           | front-end          | end-to-end                                   |
-| -                  | -                  | -                                            |
-| GoLang             | React              | test driven development (TDD)                |
-| Java               | HTML               | clean architecture & clean code              |
-| Node               | CSS                | continuous integration & continuous delivery |
+| back-end           | front-end          | end-to-end                                     |
+| -                  | -                  | -                                              |
+| `GoLang`           | `React`            | `test driven development (TDD)`                |
+| `Java`             | `Javascript`       | `clean code & clean architecture`              |
+| `Node.js`          | `HTML/CSS`         | `continuous integration & continuous delivery` |
 
-#
+##
 
 Over the last few years, I've been heavily involved in **education** projects
 that shared a goal of making the IT industry more **inclusive**.
