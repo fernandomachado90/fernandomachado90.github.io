@@ -10,7 +10,7 @@ code {
 
 .split-intro h1 {
   color: #008de8;
-  opacity: 0.9;
+  opacity: 0.75;
 }
 
 .split-intro .tagline {
@@ -40,6 +40,7 @@ code {
 
 .split-bio table {
   width: 100%;
+  table-layout:fixed;
 }
 
 .split-bio table th {
@@ -49,6 +50,14 @@ code {
   opacity: 0.75;
   text-transform: uppercase;
   text-align: left;
+  overflow:hidden;
+  white-space:nowrap;
+}
+
+.split-bio table td {
+  font-size: 17px;
+  opacity: 0.75;
+
 }
 
 .split-lists .split-list h3 {
