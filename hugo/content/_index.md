@@ -26,7 +26,7 @@ to a successful project.
 | `Java`             | `Typescript`              | `clean code & clean architecture`              |
 | `Node.js`          | `HTML + CSS + Javascript` | `continuous integration & continuous delivery` |
 
-##
+#
 
 Over the last few years, I've been heavily involved in **education** projects
 that shared a goal of making the IT industry more **inclusive**.
