@@ -22,9 +22,9 @@ to a successful project.
 
 | back-end           | front-end                 | end-to-end                                     |
 | -                  | -                         | -                                              |
-| `GoLang`           | `React`                   | `test driven development (TDD)`                |
-| `Java`             | `Typescript`              | `clean code & clean architecture`              |
-| `Node.js`          | `HTML + CSS + Javascript` | `continuous integration & continuous delivery` |
+| `GoLang`           | `React`                   | `TDD (test driven development)`                |
+| `Java`             | `Typescript`              | `clean architecture & clean code`              |
+| `Node.js`          | `HTML + CSS + Javascript` | `continuous integration &  delivery`           |
 
 #
 
