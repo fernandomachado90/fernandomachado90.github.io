@@ -54,8 +54,8 @@ code {
 
 .split-bio table td {
   font-size: 17px;
-  padding: 17px 0;
-  padding-right: 7px;
+  padding: 7px;
+  padding-left: 0;
   opacity: 0.75;
   hyphens: auto;
   vertical-align: middle;
