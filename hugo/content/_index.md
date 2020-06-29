@@ -27,9 +27,9 @@ to a successful project.
 #
 
 Over the last few years, I've been heavily involved in **education** projects
-that shared a goal of making the IT industry more diverse.
+that shared a goal of making the IT industry more **inclusive**.
 From **teaching** programming logic to teenagers to **mentoring** junior development
-teams about agile practices, the **social** projects I was involved in with
+teams about agile practices, the **social** projects I was a part of with
 [ThoughtWorks](https://www.thoughtworks.com/aceleradora) have benefited
 dozens of people and helped pave the way for the first steps of some of them
 into the industry.
@@ -38,11 +38,11 @@ On my free time, I really enjoy being in the nature, riding bikes, swimming,
 listening to [a wild variety of music](https://open.spotify.com/user/fernandomachado90)
 and playing videogames (Switch friend code: `4419-5091-4908`).
 
-During the quarentine, I've discovered a new hobby of
-putting **messages in bottles** and tossing them into the
+More recently, I've also discovered a new hobby of
+putting **messages in bottles** and tossing them in the
 seas of [GitHub](https://github.com/fernandomachado90)
 and [Medium](https://medium.com/@fernandomachado90)
-in hopes they'll be useful to someone.
+hoping they'll be useful to the community.
 
 For instance, if you wish to create your own personal page like this one,
 choosing your own theme and layout,
