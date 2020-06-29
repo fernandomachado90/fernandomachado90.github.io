@@ -20,11 +20,11 @@ to a successful project.
 [fullstack]: images/fullstack.png "full-stack developer"
 ![full-stack developer][fullstack]
 
-| back-end           | front-end          | end-to-end                                     |
-| -                  | -                  | -                                              |
-| `GoLang`           | `React`            | `test driven development (TDD)`                |
-| `Java`             | `Javascript`       | `clean code & clean architecture`              |
-| `Node.js`          | `HTML/CSS`         | `continuous integration & continuous delivery` |
+| back-end           | front-end                 | end-to-end                                     |
+| -                  | -                         | -                                              |
+| `GoLang`           | `React`                   | `test driven development (TDD)`                |
+| `Java`             | `Typescript`              | `clean code & clean architecture`              |
+| `Node.js`          | `HTML + CSS + Javascript` | `continuous integration & continuous delivery` |
 
 ##
 
