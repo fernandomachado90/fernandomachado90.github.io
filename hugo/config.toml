@@ -28,6 +28,54 @@ copyright = "&copy; 2020 Fernando Machado - Photography by Ana Paula Daros - Ico
       file = "videos/background.mp4"
       # youtubeId = "dk9uNWPP7EA"
 
+  [[params.stack]]
+    [params.stack.list1]
+      heading = "back-end"
+      [[params.stack.list1.tech]]
+        text = "GoLang"
+      [[params.stack.list1.tech]]
+        text = "Java"
+      [[params.stack.list1.tech]]
+        text = "MongoDB"
+      [[params.stack.list1.tech]]
+        text = "MySQL / PostgreSQL"
+      [[params.stack.list1.tech]]
+        text = "ActiveMQ / RabbitMQ"
+      [[params.stack.list1.tech]]
+        text = "microservices"
+
+  [[params.stack]]
+    [params.stack.list2]
+      heading = "front-end"
+      [[params.stack.list2.tech]]
+        text = "React"
+      [[params.stack.list2.tech]]
+        text = "Typescript"
+      [[params.stack.list2.tech]]
+        text = "Javascript"
+      [[params.stack.list2.tech]]
+        text = "CSS"
+      [[params.stack.list2.tech]]
+        text = "HTML"
+      [[params.stack.list2.tech]]
+        text = "atomic design"
+
+  [[params.stack]]
+    [params.stack.list3]
+      heading = "end-to-end"
+      [[params.stack.list3.tech]]
+        text = "TDD"
+      [[params.stack.list3.tech]]
+        text = "clean code"
+      [[params.stack.list3.tech]]
+        text = "clean architecture"
+      [[params.stack.list3.tech]]
+        text = "continuous integration"
+      [[params.stack.list3.tech]]
+        text = "continuous delivery"
+      [[params.stack.list3.tech]]
+        text = "observability"
+
   [[params.links]]
     [params.links.list1]
       heading = "Work"

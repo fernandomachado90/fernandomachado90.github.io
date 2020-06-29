@@ -1,0 +1,24 @@
+<div class="split-bio">
+  {{range where .Site.Pages "Type" "=" "intro"}} {{ .Content }} {{ end }}
+</div>
+
+<div class="split-lists tech-stack">
+  {{ range $key, $value := .Site.Params.stack }}
+    {{ range $key, $list := $value }}
+      {{ if $list.tech }}
+        <div class="split-list">
+          <h3>{{ $list.heading }}</h3>
+          <ul>
+            {{ range $list.tech }}
+              <li><code>{{ .text }}</code></li>
+            {{ end }}
+          </ul>
+        </div>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</div>
+
+<div class="split-bio">
+  {{range where .Site.Pages "Type" "=" "outro"}} {{ .Content }} {{ end }}
+</div>
