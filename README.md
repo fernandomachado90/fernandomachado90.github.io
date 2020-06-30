@@ -1,7 +1,7 @@
 # fernandomachado90.github.io
 Simple personal hub website created using [Hugo](https://gohugo.io/) with [Split](https://github.com/escalate/hugo-split-theme).
 
-> Create your own **GitHub Page** using [this template](https://github.com/fernandomachado90/hugo.github.io-maker)!
+> Create your own **GitHub Page** using [github-page-maker](https://github.com/fernandomachado90/github-page-maker)!
 
 ## Requisites
 
