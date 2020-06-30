@@ -36,7 +36,7 @@ body.page-template-page-fullsingle-split {
 code {
   font-family: "Courier New";
   font-weight: bold;
-  opacity: 0.9;
+  opacity: 0.75;
 }
 
 .split-lists .split-list h3 {
@@ -55,6 +55,10 @@ code {
 .split-content .split-credit p a {
   font-size: 13px;
   color: #008de8;
+}
+
+.split-content .split-credit p a:hover {
+  color: #ff4663;
 }
 
 .split-lists.tech-stack {
