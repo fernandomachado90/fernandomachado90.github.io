@@ -54,7 +54,7 @@ code {
 .split-content .split-credit p,
 .split-content .split-credit p a {
   font-size: 13px;
-  color: #ff4663;
+  color: #008de8;
 }
 
 .split-lists.tech-stack {
@@ -66,17 +66,10 @@ code {
   opacity: 0.75;
 }
 
-#medium-widget {
-  font-family: Arial;
-}
-
-#medium-widget .medium-widget-article__title {
-
-}
-
 #medium-widget .medium-widget-article__description {
-
+  color: #848d96;
 }
+
 
 /*
 pink         ff4663
