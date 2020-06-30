@@ -12,7 +12,6 @@ copyright = "&copy; 2020 Fernando Machado - Photography by <a href='http://insta
   description = "Agile software developer by training. Teacher by heart."
   shareImage = "images/social.jpg"
   twitterHandle = "fernandomach7do"
-  favicon = "favicon.ico"
 
   [params.custom.css]
     enable = true
@@ -38,9 +37,9 @@ copyright = "&copy; 2020 Fernando Machado - Photography by <a href='http://insta
       [[params.stack.list1.tech]]
         text = "MongoDB"
       [[params.stack.list1.tech]]
-        text = "MySQL / PostgreSQL"
+        text = "MySQL | PostgreSQL"
       [[params.stack.list1.tech]]
-        text = "ActiveMQ / RabbitMQ"
+        text = "ActiveMQ | RabbitMQ"
       [[params.stack.list1.tech]]
         text = "microservices"
 
