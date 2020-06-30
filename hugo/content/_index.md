@@ -1,4 +1,4 @@
 +++
-title = "// Agile software developer by training. teacher by heart."
+title = "// Agile Software Developer by training. Teacher by heart."
 tagline = "Fernando Machado"
 +++
