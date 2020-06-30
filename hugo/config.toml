@@ -5,7 +5,7 @@ theme = "hugo-split-theme"
 canonifyurls = true
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 googleAnalytics = "UA-171045664-1"
-copyright = "&copy; 2020 Fernando Machado - Photography by Ana Paula Daros - Icons made by Eucalyp @ Flaticon - Powered by Hugo"
+copyright = "&copy; 2020 Fernando Machado - Photography by <a href='http://instagram.com/apdaros'>Ana Paula Daros</a> - Icons made by <a href='https://www.flaticon.com/authors/eucalyp'>Eucalyp</a> - Built with <a href='https://gohugo.io/'>Hugo</a> - Published by <a href='https://github.com/fernandomachado90/github-page-maker'>GitHub Page Maker</a>"
 
 [params]
   author = "Fernando Machado"
