@@ -1,8 +1,11 @@
 ---
-type: intro
+type: bio1
 ---
 
-## Hello, world!
+Hello, world!
+
+My name is **Fernando Machado**. I was born in 1990 and
+I currently live in [São José dos Campos](https://goo.gl/maps/CqN2bSJMgxhejLE58), São Paulo, Brasil.
 
 I've been working as a **full stack software developer** for around a decade.
 I'm very fluent in **agile development** practices

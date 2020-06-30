@@ -66,6 +66,18 @@ code {
   opacity: 0.75;
 }
 
+#medium-widget {
+  font-family: Arial;
+}
+
+#medium-widget .medium-widget-article__title {
+
+}
+
+#medium-widget .medium-widget-article__description {
+
+}
+
 /*
 pink         ff4663
 dark pink    e20058

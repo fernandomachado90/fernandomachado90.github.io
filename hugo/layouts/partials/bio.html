@@ -1,5 +1,5 @@
 <div class="split-bio">
-  {{range where .Site.Pages "Type" "=" "intro"}} {{ .Content }} {{ end }}
+  {{range where .Site.Pages "Type" "=" "bio1"}} {{ .Content }} {{ end }}
 </div>
 
 <div class="split-lists tech-stack">
@@ -20,5 +20,22 @@
 </div>
 
 <div class="split-bio">
-  {{range where .Site.Pages "Type" "=" "outro"}} {{ .Content }} {{ end }}
+  {{range where .Site.Pages "Type" "=" "bio2"}} {{ .Content }} {{ end }}
+</div>
+
+<div id="medium-widget"></div>
+<script src="https://medium-widget.pixelpoint.io/widget.js"></script>
+<script>MediumWidget.Init({
+  renderTo: '#medium-widget',
+  params: {"resource":"https://medium.com/@fernandomachado90",
+          "postsPerLine":2,
+          "limit":2,
+          "picture":"big",
+          "fields":["description"],
+          "ratio":"landscape"}
+})
+</script>
+
+<div class="split-bio">
+  {{range where .Site.Pages "Type" "=" "bio3"}} {{ .Content }} {{ end }}
 </div>
