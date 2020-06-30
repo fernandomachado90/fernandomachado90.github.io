@@ -3,7 +3,7 @@
 
 .PHONY: help
 help:
-	$(info hugo.github.io maker:)
+	$(info github-page-maker:)
 	$(info -> new                         Creates a new Hugo project)
 	$(info -> add theme=[repository-url]  Adds Hugo theme as a submodule)
 	$(info -> update                      Updates included themes)
@@ -35,5 +35,5 @@ build:
 .PHONY: publish
 publish:
 	git add .
-	git commit -m "Publishing hugo.github.io-maker changes."
+	git commit -m "Publishing github-page-maker changes."
 	git push
