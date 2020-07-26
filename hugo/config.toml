@@ -35,13 +35,13 @@ copyright = "&copy; 2020 Fernando Machado - Photography by <a href='http://insta
       [[params.stack.list1.tech]]
         text = "Java"
       [[params.stack.list1.tech]]
+        text = "Node.js"
+      [[params.stack.list1.tech]]
         text = "MongoDB"
       [[params.stack.list1.tech]]
         text = "MySQL | PostgreSQL"
       [[params.stack.list1.tech]]
         text = "ActiveMQ | RabbitMQ"
-      [[params.stack.list1.tech]]
-        text = "microservices"
 
   [[params.stack]]
     [params.stack.list2]
@@ -49,7 +49,7 @@ copyright = "&copy; 2020 Fernando Machado - Photography by <a href='http://insta
       [[params.stack.list2.tech]]
         text = "React"
       [[params.stack.list2.tech]]
-        text = "Typescript"
+        text = "Angular"
       [[params.stack.list2.tech]]
         text = "Javascript"
       [[params.stack.list2.tech]]

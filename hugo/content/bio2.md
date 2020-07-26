@@ -14,4 +14,4 @@ into the industry and made me discover a new **vocation**.
 On my free time, I really enjoy being in the nature, riding a bike,
 swimming in and outdoors,
 listening to a [wild variety of music](https://open.spotify.com/user/fernandomachado90)
-and playing videogames (nintendo switch: `4419-5091-4908`).
+and playing videogames (switch: `4419-5091-4908`).
