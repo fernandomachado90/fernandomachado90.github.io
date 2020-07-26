@@ -1,5 +1,17 @@
 body.page-template-page-fullsingle-split {
   background-color: #FFFFFF;
+  overflow-x: hidden;
+}
+
+.diversity {
+  position: fixed;
+  left: 0 ;
+  bottom: 0;
+  z-index: 1;
+  height: 12px;
+  width: 100%;
+  background-image: linear-gradient(135deg, #000000 4.55%, #964b00 4.55%, #964b00 9.09%, #55cdfc 9.09%, #55cdfc 13.64%, #f7a8b8 13.64%, #f7a8b8 18.18%, #fff 18.18%, #fff 22.73%, #ff0018 22.73%, #ff0018 27.27%, #ffa52c 27.27%, #ffa52c 31.82%, #ffff41 31.82%, #ffff41 36.36%, #008018 36.36%, #008018 40.91%, #0000f9 40.91%, #0000f9 45.45%, #86007d 45.45%, #86007d 50%, #000000 50%, #000000 54.55%, #964b00 54.55%, #964b00 59.09%, #55cdfc 59.09%, #55cdfc 63.64%, #f7a8b8 63.64%, #f7a8b8 68.18%, #fff 68.18%, #fff 72.73%, #ff0018 72.73%, #ff0018 77.27%, #ffa52c 77.27%, #ffa52c 81.82%, #ffff41 81.82%, #ffff41 86.36%, #008018 86.36%, #008018 90.91%, #0000f9 90.91%, #0000f9 95.45%, #86007d 95.45%, #86007d 100%);
+  background-size: 311.13px 311.13px;
 }
 
 .split-intro h1 {
