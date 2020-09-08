@@ -88,7 +88,7 @@ copyright = "&copy; 2020 Fernando Machado - Photography by <a href='http://insta
       image = "images/github-page-maker.png"
     [[params.projects.project]]
       title = "Aura Social"
-      description = "Find out what's the color of the aura that emanates from your Instagram profile by using this fun app. If you want to try, contact me so I can grant you beta tester access."
+      description = "Find out what colors emanate from your Instagram profile by using this fun little web app. If you want to try it out, contact me so I can grant you 'beta' access."
       url = "https://fernandomachado90.github.io/aura-social/"
       image = "images/aura-social.png"
 
