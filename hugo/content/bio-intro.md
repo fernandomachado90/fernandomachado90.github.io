@@ -1,5 +1,5 @@
 ---
-type: bio1
+type: intro
 ---
 
 Hello, world!
@@ -16,6 +16,3 @@ I believe that authentic **communication**,
 interdisciplinary **collaboration**, autonomy to seek excellency
 and **continuous experimenting, learning and improving** are the keys
 to the success of a team, a project or an entire company.
-
-[fullstack]: images/fullstack.png "full-stack developer"
-![full-stack developer][fullstack]

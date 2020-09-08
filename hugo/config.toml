@@ -37,11 +37,11 @@ copyright = "&copy; 2020 Fernando Machado - Photography by <a href='http://insta
       [[params.stack.list1.tech]]
         text = "Node.js"
       [[params.stack.list1.tech]]
-        text = "MongoDB"
+        text = "microservices"
       [[params.stack.list1.tech]]
-        text = "MySQL | PostgreSQL"
+        text = "database design"
       [[params.stack.list1.tech]]
-        text = "ActiveMQ | RabbitMQ"
+        text = "hexagonal architecture"
 
   [[params.stack]]
     [params.stack.list2]
@@ -51,11 +51,11 @@ copyright = "&copy; 2020 Fernando Machado - Photography by <a href='http://insta
       [[params.stack.list2.tech]]
         text = "Angular"
       [[params.stack.list2.tech]]
-        text = "Javascript"
+        text = "HTML + CSS"
       [[params.stack.list2.tech]]
-        text = "CSS"
+        text = "accessibility"
       [[params.stack.list2.tech]]
-        text = "HTML"
+        text = "UI design"
       [[params.stack.list2.tech]]
         text = "atomic design"
 
@@ -67,13 +67,30 @@ copyright = "&copy; 2020 Fernando Machado - Photography by <a href='http://insta
       [[params.stack.list3.tech]]
         text = "clean code"
       [[params.stack.list3.tech]]
-        text = "clean architecture"
+        text = "developer experience"
       [[params.stack.list3.tech]]
         text = "continuous integration"
       [[params.stack.list3.tech]]
         text = "continuous delivery"
       [[params.stack.list3.tech]]
         text = "observability"
+
+  [[params.projects]]
+    [[params.projects.project]]
+      title = "Aceleradora Inclusiva"
+      description = "Hub website featuring two years of the HTML / CSS / Javascript works from the students of Aceleradora Inclusiva."
+      url = "http://aceleradora-inclusiva.herokuapp.com/"
+      image = "images/aceleradora-inclusiva.png"
+    [[params.projects.project]]
+      title = "GitHub Page Maker"
+      description = "Template repository to quickstart the creation and publishing of GitHub Pages with Hugo. Select a custom theme and publish a page like this one in a couple of minutes."
+      url = "https://github.com/fernandomachado90/github-page-maker"
+      image = "images/github-page-maker.png"
+    [[params.projects.project]]
+      title = "Aura Social"
+      description = "Find out what's the color of the aura that emanates from your Instagram profile by using this fun app. If you want to try, contact me so I can grant you beta tester access."
+      url = "https://fernandomachado90.github.io/aura-social/"
+      image = "images/aura-social.png"
 
   [[params.links]]
     [params.links.list1]
