@@ -82,15 +82,20 @@ copyright = "&copy; 2020 Fernando Machado - Photography by <a href='http://insta
       url = "http://aceleradora-inclusiva.herokuapp.com/"
       image = "images/aceleradora-inclusiva.png"
     [[params.projects.project]]
-      title = "GitHub Page Maker"
-      description = "Template repository to quickstart the creation and publishing of GitHub Pages with Hugo. Select a custom theme and publish a page like this one in a couple of minutes."
-      url = "https://github.com/fernandomachado90/github-page-maker"
-      image = "images/github-page-maker.png"
-    [[params.projects.project]]
       title = "Aura Social"
       description = "Find out what colors emanate from your Instagram profile by using this fun little web app. If you want to try it out, contact me so I can grant you 'beta' access."
       url = "https://fernandomachado90.github.io/aura-social/"
       image = "images/aura-social.png"
+    [[params.projects.project]]
+      title = "Donkey Kong 3D"
+      description = "A OpenGL 3D remake of the original Donkey Kong arcade game released 1981, written in C."
+      url = "https://github.com/fernandomachado90/DK3D/"
+      image = "images/DK3D.jpg"
+    [[params.projects.project]]
+      title = "GitHub Page Maker"
+      description = "Template repository to quickstart the creation and publishing of GitHub Pages with Hugo. Select a custom theme and publish a page like this one in minutes."
+      url = "https://github.com/fernandomachado90/github-page-maker"
+      image = "images/github-page-maker.png"
 
   [[params.links]]
     [params.links.list1]
