@@ -1,6 +1,6 @@
 baseURL = "https://fernandomachado90.github.io/"
 languageCode = "en-us"
-title = "Fernando Machado"
+title = "Fernando Machado: Software Developer | Teacher"
 theme = "hugo-split-theme"
 canonifyurls = true
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
