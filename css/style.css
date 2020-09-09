@@ -112,10 +112,10 @@ code {
   height: 40vh;
   object-fit: scale-down;
   padding: 10px;
-  background-size: 10px 10px;
+  background-size: 9px 9px;
   background-image:
-    linear-gradient(to right, #008de840 1px, transparent 1px),
-    linear-gradient(to bottom, #008de840 1px, transparent 1px);
+    linear-gradient(to right, #008de835 1px, transparent 1px),
+    linear-gradient(to bottom, #008de835 1px, transparent 1px);
 
 }
 
