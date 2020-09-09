@@ -70,8 +70,7 @@ code {
 }
 
 .split-lists .split-list ul li a:hover,
-.split-lists.projects a:hover > h3,
-#medium-widget .medium-widget-article__column:hover .medium-widget-article__title {
+.split-lists.projects a:hover > h3 {
   color: #ff4663;
   opacity: 0.5;
 }
@@ -98,6 +97,10 @@ code {
   margin-bottom: -40px;
 }
 
+.split-lists.projects {
+  margin-top: -10px;
+}
+
 .split-lists.projects .project {
   margin-bottom: 40px;
 }
@@ -121,11 +124,19 @@ code {
 
 #medium-widget {
   overflow: none;
+  margin-top: -10px;
   margin-bottom: 30px;
 }
 
 #medium-widget img {
   outline: 1px dashed #848d9675;
+  padding: 0;
+  margin: 0;
+}
+
+#medium-widget .medium-widget-article__column:hover .medium-widget-article__title {
+  color: #ff4663;
+  opacity: 0.5;
 }
 
 #medium-widget .medium-widget-article__column:hover img {
