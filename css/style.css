@@ -8,14 +8,15 @@ h2.sub-title {
   text-transform: uppercase;
   color: #e20058;
   opacity: 0.75;
-  border-bottom: 2px solid #e20058DD;
+  border-bottom: 2px solid #e20058EE;
   margin-bottom: -10px;
 }
 
 img.center {
   display: block;
   margin: 0 auto;
-  padding: 50px 0;
+  padding-top: 50px;
+  padding-bottom: 35px;
 }
 
 .diversity {
@@ -45,6 +46,7 @@ img.center {
 
 .split-bio a {
   border-bottom-style: dashed;
+  transition-duration: 0s;
 }
 
 .split-bio a:hover {
@@ -74,6 +76,10 @@ code {
   opacity: 0.5;
 }
 
+.split-lists {
+  padding-top: 10px;
+}
+
 .split-lists .split-list {
   margin-right: 6px;
 }
@@ -97,23 +103,33 @@ code {
 }
 
 .split-lists.projects img {
+  float: left;
   width: 100%;
-  height: 240px;
+  height: 300px;
   object-fit: scale-down;
   border: 1px dashed #848d9675;
 }
 
-.split-lists.projects h3 {
-  color: #000000e6;
+.split-lists.projects a:hover > img {
+  opacity: 0.9;
 }
 
 .split-lists.projects h3 {
+  color: #000000e6;
   font-weight: bold;
 }
 
 #medium-widget {
   overflow: none;
   margin-bottom: 30px;
+}
+
+#medium-widget img {
+  outline: 1px dashed #848d9675;
+}
+
+#medium-widget .medium-widget-article__column:hover img {
+  opacity: 0.9;
 }
 
 #medium-widget .medium-widget-article__description {
