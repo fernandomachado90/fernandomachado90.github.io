@@ -114,7 +114,9 @@ code {
 }
 
 .split-lists.projects a:hover > img {
-  opacity: 0.9;
+  opacity: 0.75;
+  background-color: #ff466340;
+  border-color: #ff466340;
 }
 
 .split-lists.projects h3 {
