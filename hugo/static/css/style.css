@@ -60,6 +60,7 @@ code {
   font-weight: bold;
   font-size: 14px;
   opacity: 0.75;
+  display: inline-block;
 }
 
 .split-lists .split-list h3 {
