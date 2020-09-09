@@ -107,21 +107,21 @@ code {
 }
 
 .split-lists.projects img {
-  float: left;
-  width: 100%;
+  display: block;
+  width: 97%;
   height: 40vh;
   object-fit: scale-down;
-  border: 1px dashed #848d9675;
-  background-size: 5px 5px;
+  padding: 10px;
+  background-size: 10px 10px;
   background-image:
-    linear-gradient(to right, #848d9640 1px, transparent 1px),
-    linear-gradient(to bottom, #848d9640 1px, transparent 1px);
+    linear-gradient(to right, #008de840 1px, transparent 1px),
+    linear-gradient(to bottom, #008de840 1px, transparent 1px);
+
 }
 
 .split-lists.projects a:hover > img {
-  opacity: 0.75;
-  background-color: #ff466340;
-  border-color: #ff466340;
+  opacity: 0.5;
+  background-color: #ff466350;
 }
 
 .split-lists.projects h3 {
@@ -136,7 +136,6 @@ code {
 }
 
 #medium-widget img {
-  outline: 1px dashed #848d9675;
   padding: 0;
   margin: 0;
 }

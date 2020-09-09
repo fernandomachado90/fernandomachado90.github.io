@@ -103,7 +103,7 @@ copyright = "&copy; 2020 Fernando Machado - Photography by <a href='http://insta
       image = "images/github-page-maker.png"
     [[params.projects.project]]
       title = "Wii Street View"
-      description = "Virtual Reality experiment that uses the Wii Balance Board to simulate jogging through Google Street View running on a web browser."
+      description = "Virtual Reality experiment that uses the Wii Balance Board to simulate jogging through the streets of Google Street View running on a web browser."
       url = "https://github.com/fernandomachado90/wii-street-view/"
       image = "images/wii-street-view.jpg"
 
