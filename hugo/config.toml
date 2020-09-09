@@ -87,8 +87,13 @@ copyright = "&copy; 2020 Fernando Machado - Photography by <a href='http://insta
       url = "https://fernandomachado90.github.io/aura-social/"
       image = "images/aura-social.png"
     [[params.projects.project]]
+      title = "Coin Identifier"
+      description = "An OpenCV script that identifies Brazilian Real coins on digital images using Circle Hough Transform and SIFT for feature-extraction and SVM for matching. This was the final paper for my graduation in Computer Science in 2015."
+      url = "https://github.com/fernandomachado90/coin-identifier"
+      image = "images/coin-identifier.png"
+    [[params.projects.project]]
       title = "Donkey Kong 3D"
-      description = "A OpenGL 3D remake of the original Donkey Kong arcade game released 1981, written in C."
+      description = "An OpenGL 3D remake, written in pure C, of the original Donkey Kong arcade game released 1981."
       url = "https://github.com/fernandomachado90/DK3D/"
       image = "images/DK3D.png"
     [[params.projects.project]]
@@ -96,6 +101,11 @@ copyright = "&copy; 2020 Fernando Machado - Photography by <a href='http://insta
       description = "Template repository to quickstart the creation and publishing of GitHub Pages with Hugo. Select a custom theme and publish a page like this one in minutes."
       url = "https://github.com/fernandomachado90/github-page-maker"
       image = "images/github-page-maker.png"
+    [[params.projects.project]]
+      title = "Wii Street View"
+      description = "Virtual Reality experiment that uses the Wii Balance Board to simulate jogging through Google Street View running on a web browser."
+      url = "https://github.com/fernandomachado90/wii-street-view/"
+      image = "images/wii-street-view.jpg"
 
   [[params.links]]
     [params.links.list1]
