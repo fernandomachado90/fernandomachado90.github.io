@@ -109,34 +109,21 @@ copyright = "&copy; <script>document.write(new Date().getFullYear())</script> Fe
 
   [[params.links]]
     [params.links.list1]
-      heading = "Work"
+      heading = "Professional"
+      [[params.links.list1.link]]
+        text = "LinkedIn"
+        url = "http://linkedin.com/in/fernandomachado90"
       [[params.links.list1.link]]
         text = "GitHub"
         url = "https://github.com/fernandomachado90"
       [[params.links.list1.link]]
         text = "Medium"
         url = "https://medium.com/@fernandomachado90"
-      [[params.links.list1.link]]
-        text = "LinkedIn"
-        url = "http://linkedin.com/in/fernandomachado90"
 
   [[params.links]]
     [params.links.list2]
-      heading = "Social"
+      heading = "Personal"
       [[params.links.list2.link]]
-        text = "Twitter"
-        url = "https://twitter.com/fernandomach7do"
-      [[params.links.list2.link]]
-        text = "Facebook"
-        url = "https://facebook.com/fernandomachado90"
-      [[params.links.list2.link]]
-        text = "Instagram"
-        url = "https://instagram.com/fernandomach7do"
-
-  [[params.links]]
-    [params.links.list3]
-      heading = "Contact"
-      [[params.links.list3.link]]
         text = "Email"
         url = "mailto:lfmachado90@gmail.com"
 
