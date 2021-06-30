@@ -87,6 +87,11 @@ copyright = "&copy; <script>document.write(new Date().getFullYear())</script> Fe
       url = "https://fernandomachado90.github.io/aura-social/"
       image = "images/aura-social.png"
     [[params.projects.project]]
+      title = "CodeBook"
+      description = "Open-source learning tool that allows to users to follow textbook contents while practicing HTML, CSS and JS using a live code editor."
+      url = "https://fernandomachado90.github.io/codebook/"
+      image = "images/codebook.jfif"
+    [[params.projects.project]]
       title = "Coin Identifier"
       description = "An OpenCV script that identifies Brazilian Real coins on digital images using Circle Hough Transform and SIFT for feature-extraction and SVM for matching. This was the final paper for my graduation in Computer Science in 2015."
       url = "https://github.com/fernandomachado90/coin-identifier"
